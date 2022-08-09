@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eddi Freiter</h1>
-<h3 align="center">I am a Full Stack Software Developer and I love technology!</h3>
+<h3 align="center">I am a Fullstack Software Developer and I love technology!</h3>
 
 <p>I am highly passionate about technology, it is in my DNA. I use a logical approach to technical problems and love “fixing” things, software, or hardware, no matter the complexity. I am experienced in code design, development, and maintenance and I am experienced in hardware design, development, and maintenance. I have managed multiple projects and tackled new tasks with proficiency as priorities shift. I have saved my company lots of time and money with innovative and forward-thinking solutions.</p>
 
